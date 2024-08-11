@@ -5,6 +5,10 @@
     padding: 1em;
 }
 
+.navbar img{
+    width: 50px;
+}
+
 .list{
     display: flex;
     list-style-type: none;

@@ -1,12 +1,12 @@
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
-import Home from "./pages/home";
-import Contact from "./pages/Contact";
-import Company from "./pages/Company";
-import NewProject from "./pages/NewProject";
-import Container from "./layout/container";
-import Navbar from "./layout/Navbar"
-import Footer from "./layout/Footer"
-import Projects from "./pages/Projects";
+import Home from "./components/pages/home";
+import Contact from "./components/pages/Contact";
+import Company from "./components/pages/Company";
+import NewProject from "./components/pages/NewProject";
+import Container from "./components/layout/container";
+import Navbar from "./components/layout/Navbar"
+import Footer from "./components/layout/Footer"
+import Projects from "./components/pages/Projects";
 
 function App() {
   return (
