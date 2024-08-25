@@ -12,6 +12,7 @@
 
 .start{
     justify-content: flex-start;
+    padding-bottom: 1.2em;
 }
 
 .column{

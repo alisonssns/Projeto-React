@@ -1,0 +1,11 @@
+.project_container {
+    padding-top: 2em;
+    width: 100%;
+}
+
+.title_container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2em;
+    width: 100%;
+}

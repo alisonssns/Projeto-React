@@ -3,21 +3,28 @@
     {
       "id": "3e32",
       "name": "INFRA ESTRUTURA",
-      "budget": "20000",
-      "category": {
-        "id": "1",
-        "name": "infra"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "2dc8",
-      "name": "Site web commerce",
-      "budget": "3000",
+      "budget": "70000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
+      },
+      "cost": 3500,
+      "services": [
+        {
+          "name": "Contratar um scrumMaster",
+          "cost": "3500",
+          "description": "faz tudo",
+          "id": "72addbb6-aaa3-456e-b0ea-b13650e64ba4"
+        }
+      ]
+    },
+    {
+      "id": "1284",
+      "name": "Primeiro Projeto",
+      "budget": "1000",
+      "category": {
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": []
@@ -26,7 +33,7 @@
   "categories": [
     {
       "id": "1",
-      "name": "infra"
+      "name": "Infra"
     },
     {
       "id": "2",
